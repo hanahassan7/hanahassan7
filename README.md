@@ -30,7 +30,7 @@ and I'm always looking for projects where technical decisions carry real consequ
 | Project | Description | Stack |
 |--------|-------------|-------|
 | [MECA Website]() | Full-stack organizational website | React, Laravel |
-| [Paint Brush App]() | OOP-driven paint app with undo/redo logic | Java, Swing |
+| [Paint Brush App](https://github.com/hanahassan7/paint-brush-app) | OOP-driven paint app with undo/redo logic | Java, Swing |
 
 
 ## 📚 Currently
