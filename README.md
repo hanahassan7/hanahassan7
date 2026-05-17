@@ -3,7 +3,7 @@
 ### Computer Engineering Student · Ain Shams University
 
 I'm the kind of engineer who can't leave a problem half-solved.
-I build across the full stack — from responsive React interfaces to back-end Laravel logic —
+I build across the full stack - from responsive React interfaces to back-end Laravel logic —
 and I'm always looking for projects where technical decisions carry real consequences.
 
 ## 🛠 Tech Stack
