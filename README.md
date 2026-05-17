@@ -33,7 +33,7 @@ I build across the full stack - from responsive React interfaces to back-end Lar
 | [MECA Website](https://www.mecaegypt.com/) | Full-stack organizational website | React, Laravel |
 | [Solar Tracking System](https://github.com/hanahassan7/solar-tracking-system) | Fully analog solar panel tracker using LDRs, PWM, and H-Bridge motor control | Analog Circuits, 555 Timer |
 | [Electronics Project](https://github.com/hanahassan7/electronics-project) | 10V DC power supply + 3-stage audio amplifier | Analog Circuits, Proteus |
-| [Kindred](https://github.com/hanahassan7/kindred) | Cultural tourism platform - tourist journey, host certification & safety layer | React, Tailwind CSS |
+| [Kindred](https://github.com/hanahassan7/kindred-meca-ui) | Cultural tourism platform - tourist journey, host certification & safety layer | React, Tailwind CSS |
 | [Paint Brush App](https://github.com/hanahassan7/paint-brush-app) | OOP-driven paint app with undo/redo logic | Java, Swing |
 
 ---
