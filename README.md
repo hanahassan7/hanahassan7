@@ -41,7 +41,7 @@ and I'm always looking for projects where technical decisions carry real consequ
 
 - 🎓 Studying Computer & Systems Engineering @ Ain Shams University
 - 💼 Vice Head of IT @ MECA Student Activity
-- 🔍 Actively seeking softwarw development internships
+- 🔍 Actively seeking software development internships
 
 ---
 
