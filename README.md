@@ -1,10 +1,11 @@
-<img width="1452" height="3016" alt="image" src="https://github.com/user-attachments/assets/0ad71867-1212-49d1-a08c-8c34f059e6d7" />[# Hi, I'm Hana Hassan 👋
+# Hi, I'm Hana Hassan 👋
 
 ### Computer Engineering Student · Ain Shams University
 
 I'm the kind of engineer who can't leave a problem half-solved.
-I build across the full stack - from responsive React interfaces to back-end Laravel logic —
-and I'm always looking for projects where technical decisions carry real consequences.
+I build across the full stack - from responsive React interfaces to back-end Laravel logic - and I'm always looking for projects where technical decisions carry real consequences.
+
+---
 
 ## 🛠 Tech Stack
 
@@ -29,13 +30,14 @@ and I'm always looking for projects where technical decisions carry real consequ
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [MECA Website]() | Full-stack organizational website | React, Laravel |
+| [MECA Website](https://github.com/hanahassan7/meca-website) | Full-stack organizational website | React, Laravel |
 | [Solar Tracking System](https://github.com/hanahassan7/solar-tracking-system) | Fully analog solar panel tracker using LDRs, PWM, and H-Bridge motor control | Analog Circuits, 555 Timer |
 | [Electronics Project](https://github.com/hanahassan7/electronics-project) | 10V DC power supply + 3-stage audio amplifier | Analog Circuits, Proteus |
-| [Kindred](https://github.com/hanahassan7/kindred) | Cultural tourism platform — tourist journey, host certification & safety layer | React, Tailwind CSS |
+| [Kindred](https://github.com/hanahassan7/kindred) | Cultural tourism platform - tourist journey, host certification & safety layer | React, Tailwind CSS |
+| [Random Forest Classifier](https://github.com/hanahassan7/random-forest-classifier) | ML model benchmarked against Decision Trees | Python, Scikit-learn |
 | [Paint Brush App](https://github.com/hanahassan7/paint-brush-app) | OOP-driven paint app with undo/redo logic | Java, Swing |
 
-
+---
 
 ## 📚 Currently
 
@@ -46,5 +48,6 @@ and I'm always looking for projects where technical decisions carry real consequ
 ---
 
 ## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/hana-hassan-hamed)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hana-hassan-hamed)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:hanahassan2006@gmail.com)
