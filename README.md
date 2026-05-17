@@ -30,15 +30,18 @@ and I'm always looking for projects where technical decisions carry real consequ
 | Project | Description | Stack |
 |--------|-------------|-------|
 | [MECA Website]() | Full-stack organizational website | React, Laravel |
+| [Solar Tracking System](https://github.com/hanahassan7/solar-tracking-system) | Fully analog solar panel tracker using LDRs, PWM, and H-Bridge motor control | Analog Circuits, 555 Timer |
+| [Electronics Project](https://github.com/hanahassan7/electronics-project) | 10V DC power supply + 3-stage audio amplifier | Analog Circuits, Proteus |
 | [Kindred](https://github.com/hanahassan7/kindred) | Cultural tourism platform — tourist journey, host certification & safety layer | React, Tailwind CSS |
 | [Paint Brush App](https://github.com/hanahassan7/paint-brush-app) | OOP-driven paint app with undo/redo logic | Java, Swing |
+
 
 
 ## 📚 Currently
 
 - 🎓 Studying Computer & Systems Engineering @ Ain Shams University
 - 💼 Vice Head of IT @ MECA Student Activity
-- 🔍 Actively seeking software development internships
+- 🔍 Actively seeking softwarw development internships
 
 ---
 
