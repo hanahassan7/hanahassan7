@@ -42,8 +42,7 @@ I build across the full stack - from responsive React interfaces to back-end Lar
 
 - 🎓 Studying Computer & Systems Engineering @ Ain Shams University
 - 💼 Vice Head of IT @ MECA Student Activity
-- 🔍 Actively seeking software development internships
-
+- 🔍 I am actively seeking opportunities where I can contribute meaningfully to impactful projects—and keep growing alongside people who take their craft seriously.
 ---
 
 ## 📫 Let's Connect
