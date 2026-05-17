@@ -1,4 +1,4 @@
-# Hi, I'm Hana Hassan 👋
+# Hi, I'm Hana Hassan 
 
 ### Computer Engineering Student · Ain Shams University
 
